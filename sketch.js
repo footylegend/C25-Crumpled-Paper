@@ -36,7 +36,7 @@ function draw() {
  ground.display();
 //jump(ball.body);
  //Ball.velocityY = Ball.velocityY+1;
-  image(dustbiniMG,930,370,170,200);
+  //image(dustbiniMG,930,370,170,200);
  keyPressed();
 }
 function keyPressed(){
